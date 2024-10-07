@@ -14,22 +14,22 @@
     <tr>
         <td><code>Python</code></td>
         <td>
-            1. Понимание основных конструкций языка: переменные, условия, циклы. задач.<br>
-            2. Основы работы с базовыми типами данных: строки, списки и словари.<br>
-            3. Способность создавать простые программы для решения базовых задач.
+            1. Understanding the basic constructs of the language: variables, conditions, loops.<br>
+            2. Basics of working with basic data types: strings, lists, and dictionaries.<br>
+            3. Ability to create simple programs to solve basic tasks.
         </td>
         <td>
-            1. Уверенное владение основными структурами данных (списки, кортежи, множества).<br>
-            2. Обработка ошибок и исключений.<br>
-            3. Понимание основ объектно-ориентированного программирования.
+            1. Confident command of basic data structures (lists, tuples, sets).<br>
+            2. Error and exception handling.<br>
+            3. Understanding the basics of object-oriented programming.
         </td>
         <td>
-            1. Продвинутое использование парадигмы ООП, включая полиморфизм и инкапсуляцию.<br>
-            2. Понимание принципов работы декораторов и метаклассов.
+            1. Advanced use of the OOP paradigm, including polymorphism and encapsulation.<br>
+            2. Understanding the principles of decorators and metaclasses.
         </td>
         <td>
-            1. Использование инструментов для оптимизации и улучшения производительности Python-кода.<br>
-            2. Глубокое понимание GIL (Global Interpreter Lock) и методов его обхода.<br>
-            3. Понимание счетчика ссылок и сборщика мусора
+            1. Using tools to optimize and improve the performance of Python code.<br>
+            2. Deep understanding of GIL (Global Interpreter Lock) and methods to bypass it.<br>
+            3. Understanding reference counting and garbage collection.
         </td>
 </table>
